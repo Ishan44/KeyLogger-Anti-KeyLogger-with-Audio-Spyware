@@ -1,0 +1,2 @@
+D:\ISAA J COMPONENT\keylogger\keylogger_client.jar
+D:\ISAA J COMPONENT\keylogger\keylogger_server.jar

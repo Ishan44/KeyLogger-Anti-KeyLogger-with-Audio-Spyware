@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="keylogger">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keylogger/keylogger_client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/keylogger/keylogger_server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

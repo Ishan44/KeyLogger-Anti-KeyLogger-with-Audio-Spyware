@@ -1,0 +1,7 @@
+scanning file keylogger in D:\ISAA J COMPONENT\keylogger
+scanning file Client.class in D:\ISAA J COMPONENT\keylogger\Client.class
+scanning file Client.java in D:\ISAA J COMPONENT\keylogger\Client.java
+scanning file keylogger_client.jar in D:\ISAA J COMPONENT\keylogger\keylogger_client.jar
+scanning file keylogger_server.jar in D:\ISAA J COMPONENT\keylogger\keylogger_server.jar
+scanning file Server.class in D:\ISAA J COMPONENT\keylogger\Server.class
+scanning file Server.java in D:\ISAA J COMPONENT\keylogger\Server.java
